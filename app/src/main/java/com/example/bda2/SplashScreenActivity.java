@@ -54,6 +54,7 @@ public class SplashScreenActivity extends AppCompatActivity {
 
         /* let us create this login activity, right click on bda2, new, activity, empty activity  */
         /* once the splash screen is complete we want to jump to login activity  */
+        /* test  */
 
 
 
