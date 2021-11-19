@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BDA2">
         <activity
+            android:name=".SelectRegisterationActivity"
+            android:exported="false" />
+        <activity
             android:name=".LoginActivity"
             android:exported="false" />
         <activity
