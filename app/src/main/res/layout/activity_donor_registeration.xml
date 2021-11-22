@@ -89,7 +89,7 @@
                         android:textColor="#000"
                         android:textSize="18sp"
                         android:textColorHint="#000"
-                        android:drawableStart="@drawable/ic_person_foreground"/>
+                        android:drawableStart="@drawable/ic_person"/>
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/registerationIdNumber"
@@ -101,7 +101,7 @@
                     android:textColor="#000"
                     android:textSize="18sp"
                     android:textColorHint="#000"
-                    android:drawableStart="@drawable/ic_person_foreground"/>
+                    android:drawableStart="@drawable/ic_number"/>
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/registerPhoneNumber"
