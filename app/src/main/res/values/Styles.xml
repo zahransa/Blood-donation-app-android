@@ -1,2 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+
+    <!-- Base application theme. -->
+
+
+
+    -<style parent="Theme.MaterialComponents.Light.NoActionBar" name="AppTheme">
+
+    <!-- Customize your theme here. -->
+
+
+    <item name="colorPrimary">@color/colorPrimary</item>
+
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+    <item name="colorAccent">@color/colorAccent</item>
+
+</style>
+
+
+    -<style parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox" name="TextInputLayoutStyle">
+
+    <item name="boxStrokeColor">#fff</item>
+
+    <item name="boxStrokeWidth">2dp</item>
+
+</style>
+
+</resources>
