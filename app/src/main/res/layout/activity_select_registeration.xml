@@ -71,8 +71,23 @@
                     android:layout_gravity="center"
                     android:textColor="#fff"
                     android:textSize="20sp"
+                    android:background="@drawable/buttons_bbackground"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content"></Button>
+                    android:layout_height="wrap_content"/>
+
+
+                <Button
+                    android:id="@+id/recipientButton"
+                    android:text="Recipient Registeration"
+                    android:textAllCaps="false"
+                    android:layout_marginTop="10dp"
+                    android:layout_gravity="center"
+                    android:textColor="#fff"
+                    android:textSize="20sp"
+                    android:background="@drawable/buttons_bbackground"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+
             </LinearLayout>
 
 
